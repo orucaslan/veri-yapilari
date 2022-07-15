@@ -69,3 +69,4 @@ class DynamicArray (object):        # dynamic arrya sınıfımızı oluşturduk
     def makeArray ( self , capacity ):              
         """array oluşturma"""
         return ( capacity * ctypes.py_object )      # ctypes kütüphanesini kullanarak bir array oluşturuyoruz 
+    
